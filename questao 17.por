@@ -1,4 +1,4 @@
-/*17. Validação de arquivo no Word
+/*17. Validação de arquivo no Word amanda
 Objetivo: Verificar se um arquivo pode ser aberto no Word.
 Instruções:
 - Peça ao usuário para digitar a extensão do arquivo (ex: .doc, .pdf).
